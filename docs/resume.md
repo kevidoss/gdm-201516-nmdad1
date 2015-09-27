@@ -31,7 +31,7 @@ Maar dit is meer vrijwilligers werk en dus niet betaald.
 *Microsoft PowerPoint  
 
 ##Contactinformatie
-Naam: Kevin Dossche
-Geboortedatum: 10/05/1996
-Adres: Rijgerstraat 77c – 9310 Moorsel
+Naam: Kevin Dossche  
+Geboortedatum: 10/05/1996  
+Adres: Rijgerstraat 77c – 9310 Moorsel  
 E-mailadres: kevidoss@student.arteveldehs.be
