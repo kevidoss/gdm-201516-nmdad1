@@ -16,19 +16,19 @@ Ik heb weinig werkervaring. In de zomer help ik wel bij het opknappen van allerh
 Maar dit is meer vrijwilligers werk en dus niet betaald.
 
 ##Kennis webtechnologieën
-*HTML
-*CSS
-*JavaScript
+*HTML  
+*CSS  
+*JavaScript  
 
 ##Softwarekennis
-*Adobe Illustrator CC
-*Adobe Photoshop CC
-*Adobe After Effects CC
-*Adobe Premiere Pro CC
-*Adobe InDesign CC
-*Microsoft Word
-*Microsoft Excel
-*Microsoft PowerPoint
+*Adobe Illustrator CC  
+*Adobe Photoshop CC  
+*Adobe After Effects CC  
+*Adobe Premiere Pro CC  
+*Adobe InDesign CC  
+*Microsoft Word  
+*Microsoft Excel  
+*Microsoft PowerPoint  
 
 ##Contactinformatie
 Naam: Kevin Dossche
