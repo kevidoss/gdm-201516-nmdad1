@@ -1,6 +1,6 @@
 ##Biografie
 Ik ben Kevin Dossche, geboren te Aalst op 10 mei 1996. Ik woon in Moorsel en ik heb een oudere broer.  
-In het middelbaar heb ik Latijn-Moderne Talen gestudeert aan het Sint-Maarteninstituut in Aalst.
+In het middelbaar heb ik Latijn-Moderne Talen gestudeerd aan het Sint-Maarteninstituut in Aalst.
 
 ##Portfolio
 ####Vimeo:
